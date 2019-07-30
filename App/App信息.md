@@ -95,7 +95,7 @@
     </tr>
 </table>
 
-### 设置项
+### setting 设置项
 <table>
     <tr>
         <th style="width:150px;">名称</th>
@@ -126,6 +126,12 @@
         <td>/module/score/setting</td>
         <td>map</td>
         <td>积分模块设置项</td>
+    </tr>
+    <tr>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
     </tr>
     <tr>
         <td>预储值模块</td>
