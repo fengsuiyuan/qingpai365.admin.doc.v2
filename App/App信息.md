@@ -73,60 +73,11 @@
         <td>-</td>
     </tr>
     <tr>
-        <td>scoreModule</td>
-        <td>int</td>
-        <td>是</td>
-        <td>是否开启积分模块</td>
+        <td>setting</td>
+        <td>map</td>
         <td>-</td>
-    </tr>
-    <tr>
-        <td>scoreModuleData</td>
-        <td>object</td>
-        <td>是</td>
-        <td>积分模块设置</td>
-        <td>保存的json序列化数据, 具体key用到的时候在这里详细写明</td>
-    </tr>
-    <tr>
-        <td>couponModule</td>
-        <td>int</td>
-        <td>是</td>
-        <td>是否开启优惠券模块</td>
-        <td>-</td>
-    </tr>
-    <tr>
-        <td>couponModuleData</td>
-        <td>object</td>
-        <td>是</td>
-        <td>优惠券模块设置</td>
-        <td>保存的json序列化数据, 具体key用到的时候在这里详细写明</td>
-    </tr>
-    <tr>
-        <td>depositModule</td>
-        <td>int</td>
-        <td>是</td>
-        <td>是否开启预储值模块</td>
-        <td>-</td>
-    </tr>
-    <tr>
-        <td>depositModuleData</td>
-        <td>object</td>
-        <td>是</td>
-        <td>预储值模块设置</td>
-        <td>保存的json序列化数据, 具体key用到的时候在这里详细写明</td>
-    </tr>
-    <tr>
-        <td>wechatModule</td>
-        <td>int</td>
-        <td>是</td>
-        <td>是否开启微信模块</td>
-        <td>-</td>
-    </tr>
-    <tr>
-        <td>wechatModuleData</td>
-        <td>object</td>
-        <td>是</td>
-        <td>微信模块设置</td>
-        <td>保存的json序列化数据, 具体key用到的时候在这里详细写明</td>
+        <td>设置项</td>
+        <td>见下表</td>
     </tr>
     <tr>
         <td>status</td>
@@ -143,6 +94,8 @@
         <td>-</td>
     </tr>
 </table>
+
+### 设置项
 
 
 ## 列表
