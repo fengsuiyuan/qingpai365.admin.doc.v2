@@ -96,7 +96,56 @@
 </table>
 
 ### 设置项
-
+<table>
+    <tr>
+        <th style="width:150px;">名称</th>
+        <th style="width:200px;">路径</th>
+        <th style="width:200px;">类型</th>
+        <th>可选值</th>
+    </tr>
+    <tr>
+        <td>模块</td>
+        <td>/module</td>
+        <td>leaf</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td>积分模块</td>
+        <td>/module/score</td>
+        <td>leaf</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td>积分模块开关</td>
+        <td>/module/score/enabled</td>
+        <td>int</td>
+        <td>1:是 0否</td>
+    </tr>
+    <tr>
+        <td>积分模块设置项</td>
+        <td>/module/score/setting</td>
+        <td>map</td>
+        <td>积分模块设置项</td>
+    </tr>
+    <tr>
+        <td>预储值模块</td>
+        <td>/module/deposit</td>
+        <td>leaf</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td>预储值模块开关</td>
+        <td>/module/deposit/enabled</td>
+        <td>int</td>
+        <td>1:是 0否</td>
+    </tr>
+    <tr>
+        <td>预储值模块设置项</td>
+        <td>/module/deposit/setting</td>
+        <td>map</td>
+        <td>预储值模块设置项</td>
+    </tr>
+</table>
 
 ## 列表
 
