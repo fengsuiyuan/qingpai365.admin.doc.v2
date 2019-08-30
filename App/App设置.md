@@ -250,12 +250,6 @@
         <td>int</td>
         <td>1:是 0否</td>
     </tr>
-    <tr>
-        <td>顾客画像</td>
-        <td>module.tag.list</td>
-        <td>array</td>
-        <td>默认值: 老主顾,新顾客</td>
-    </tr>
 </table>
 
 ## 查看APP设置
